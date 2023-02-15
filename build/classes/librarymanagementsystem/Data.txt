@@ -1,0 +1,7 @@
+Book{ISBN=0, title=News, author=Mariam, publisher=Macmillan, publicationDate=20/02/2000}
+Book{ISBN=1, title=Science, author=Magy, publisher=Hachette, publicationDate=15/03/1589}
+Book{ISBN=2, title=Chemistry, author=Lina, publisher=Hachette, publicationDate=18/06/1987}
+Book{ISBN=3, title=Social, author=Mohamed, publisher=Macmillan, publicationDate=25/09/2009}
+Book{ISBN=4, title=Geographic, author=Reem, publisher=Macmillan, publicationDate=17/04/1999}
+Book{ISBN=5, title=Literature, author=Rana, publisher=Hachette, publicationDate=30/03/2002}
+
